@@ -112,7 +112,12 @@ Coming soon at juta official web
 
 ## Release Notes
 
-### 0.7.8-alpha (open testing)
+### 0.7.9-alpha
+- Bugfixes:
+  - Graph adjustment on Analytics
+  - Stability improvements
+
+### 0.7.8-alpha
 
 - Bugfixes:
   - Fix screen name
