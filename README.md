@@ -101,6 +101,11 @@ Juta has many features to help you manage your daily spendings:
 - 👥 **Account Group** (Coming soon)
 - **and many more...**
 
+## Download
+
+- Android - [Google Play](https://play.google.com/store/apps/details?id=app.juta)
+- iOS - Coming soon
+
 ## Documentations
 
 Coming soon at juta official web
@@ -200,8 +205,3 @@ Coming soon at juta official web
 - Bugfixes:
   - Login
   - Splash screen
-
-## Download
-
-- Android - [https://play.google.com/store/apps/details?id=app.juta](https://play.google.com/store/apps/details?id=app.juta)
-- iOS - Coming soon
