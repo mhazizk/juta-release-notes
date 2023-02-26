@@ -112,6 +112,10 @@ Coming soon at juta official web
 
 ## Release Notes
 
+### 0.7.10-alpha
+- Bugfixes:
+  - Fix infinite loading on startup
+
 ### 0.7.9-alpha
 - Bugfixes:
   - Graph adjustment on Analytics
