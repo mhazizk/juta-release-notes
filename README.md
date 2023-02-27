@@ -112,6 +112,13 @@ Coming soon at juta official web
 
 ## Release Notes
 
+### 0.7.11-alpha
+- Bugfixes:
+  - Fix showing wrong device os name on certain devices
+  - Fix crash on startup
+  - Fix crash when adding new transaction
+  - Stability improvements
+
 ### 0.7.10-alpha
 - Bugfixes:
   - Fix infinite loading on startup
