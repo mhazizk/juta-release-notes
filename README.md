@@ -117,6 +117,7 @@ Coming soon at juta official web
   - Add support for 12 hour time format
   - Improve auto crash reporting
 - Bugfixes:
+  - Fix crash on certain devices
   - Fix not showing month name on Analytics screen
   - Fix overdue payment date not showing on My Loans widget
   - Stability improvements
