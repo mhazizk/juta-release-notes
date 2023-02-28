@@ -112,6 +112,14 @@ Coming soon at juta official web
 
 ## Release Notes
 
+### 0.8.0-alpha
+- Features:
+  - Add support for 12 hour time format
+- Bugfixes:
+  - Fix not showing month name on Analytics screen
+  - Fix overdue payment date not showing on My Loans widget
+  - Stability improvements
+
 ### 0.7.11-alpha
 - Bugfixes:
   - Fix showing wrong device os name on certain devices
