@@ -96,6 +96,8 @@ Juta has many features to help you manage your daily spendings:
 
   Don't worry about losing your data. Juta will automatically sync your data between your devices
 
+- 🇬🇧 **More currency support** (Coming soon)
+- 🈷️ **More language support** (Coming soon)
 - 🔁 **Recurring transactions** (Coming soon)
 - 🖼️ **Image attachment** (Coming soon)
 - 👥 **Account Group** (Coming soon)
@@ -104,7 +106,7 @@ Juta has many features to help you manage your daily spendings:
 ## Download
 
 - Android - [Google Play](https://play.google.com/store/apps/details?id=app.juta)
-- iOS - Coming soon
+- iOS - Coming soon❗
 
 ## Documentations
 
@@ -112,31 +114,53 @@ Coming soon at juta official web
 
 ## Release Notes
 
+We're currently in alpha stage. Please report any bugs or issues you found to help us improve Juta.
+
+Stay tuned for more updates!
+
+### 0.8.2-alpha
+
+- Features:
+  - Improve network error handling
+  - Stability improvements
+- Bugfixes:
+  - Fix crash when user creates new transaction with no logbook
+  - Fix crash when currency fails to load
+  - Fix recent transactions not showing on dashboard
+  - Fix My Loans not showing overdue payment status
+  - Fix device os name not showing on certain devices
+
 ### 0.8.0-alpha
+
 - Features:
   - Add support for 12 hour time format
   - Improve auto crash reporting
+  - Stability improvements
 - Bugfixes:
   - Fix crash on certain devices
   - Fix not showing month name on Analytics screen
   - Fix overdue payment date not showing on My Loans widget
-  - Stability improvements
 
 ### 0.7.11-alpha
+
+- Features:
+  - Stability improvements
 - Bugfixes:
   - Fix showing wrong device os name on certain devices
   - Fix crash on startup
   - Fix crash when adding new transaction
-  - Stability improvements
 
 ### 0.7.10-alpha
+
 - Bugfixes:
   - Fix infinite loading on startup
 
 ### 0.7.9-alpha
+
+- Features:
+  - Stability improvements
 - Bugfixes:
   - Graph adjustment on Analytics
-  - Stability improvements
 
 ### 0.7.8-alpha
 
