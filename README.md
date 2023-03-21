@@ -114,9 +114,34 @@ Coming soon at juta official web
 
 ## Release Notes
 
-We're currently in alpha stage. Please report any bugs or issues you found to help us improve Juta.
+Please report any bugs or issues you found to help us improve Juta.
 
 Stay tuned for more updates!
+
+### 0.9.0
+
+This new update is a big one. There are many breaking changes in this update. So please make sure to update all of your devices to this version. Once you update, you won't be able to use your old version anymore.
+
+This also marks the end of alpha stage. We're now in beta stage. Please report any bugs or issues you found to help us improve Juta. Stay tuned for more updates!
+
+- Features:
+  - New My Reports feature
+  - New My Reports widget in dashboard screen
+  - New Account Deletion feature
+  - New attachment image support
+  - New profile picture feature
+  - New support for more than 100+ currencies
+  - New Budget Settings
+  - New budget type options
+  - Add search feature on Currency picker
+  - Style change on Total Expense widget
+  - Small style change on Login, Category Preview, Logbook Preview, and Transaction Preview
+  - New micro-interaction on Dashboard screen and Logbook screen
+- Bugfixes:
+  - Fix invalid date showing on logbook screen
+  - Fix crash when user deleting a budget
+  - Fix Logbook button cannot be clicked on certain devices
+  - Fix keyboard avoiding input on certain devices
 
 ### 0.8.2-alpha
 
