@@ -128,9 +128,9 @@ This also marks the end of alpha stage. We're now in beta stage. Please report a
   - New My Reports feature
   - New My Reports widget in dashboard screen
   - New Account Deletion feature
-  - New attachment image support
+  - New attachment image feature
   - New profile picture feature
-  - New support for more than 100+ currencies
+  - Add support for more than 100+ currencies
   - New Budget Settings
   - New budget type options
   - Add search feature on Currency picker
