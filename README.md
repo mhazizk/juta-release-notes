@@ -30,7 +30,7 @@ Your Personal Finance Tracker
 
 ## About Juta
 
-Juta is a mobile finance tracker app to help you track your daily spendings
+Juta is a mobile finance tracker app to help you manage your daily spendings.
 
 ## Features
 
@@ -96,10 +96,16 @@ Juta has many features to help you manage your daily spendings:
 
   Don't worry about losing your data. Juta will automatically sync your data between your devices
 
-- 🇬🇧 **More currency support** (Coming soon)
-- 🈷️ **More language support** (Coming soon)
+- 🇬🇧 **Many currencies**
+
+  Choose from more than 100+ available currencies
+
+- 🖼️ **Image attachment**
+
+  Attach image to your transactions to help you remember your transactions
+
 - 🔁 **Recurring transactions** (Coming soon)
-- 🖼️ **Image attachment** (Coming soon)
+- 🈷️ **More language support** (Coming soon)
 - 👥 **Account Group** (Coming soon)
 - **and many more...**
 
