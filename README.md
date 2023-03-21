@@ -133,11 +133,11 @@ This also marks the end of alpha stage. We're now in beta stage. Please report a
 - Features:
   - New My Reports feature
   - New My Reports widget in dashboard screen
-  - New Account Deletion feature
-  - New attachment image feature
+  - New account deletion feature
+  - New image attachment feature
   - New profile picture feature
   - Add support for more than 100+ currencies
-  - New Budget Settings
+  - New budget Settings
   - New budget type options
   - Add search feature on Currency picker
   - Style change on Total Expense widget
