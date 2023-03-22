@@ -124,6 +124,11 @@ Please report any bugs or issues you found to help us improve Juta.
 
 Stay tuned for more updates!
 
+### 0.9.1
+
+- Bugfixes:
+  - Fix crash on android 13 due to `undefined` device identifier
+
 ### 0.9.0
 
 This new update is a big one. There are many breaking changes in this update. So please make sure to update all of your devices to this version. Once you update, you won't be able to use your old version anymore.
@@ -131,8 +136,8 @@ This new update is a big one. There are many breaking changes in this update. So
 This also marks the end of alpha stage. We're now in beta stage. Please report any bugs or issues you found to help us improve Juta. Stay tuned for more updates!
 
 - Features:
-  - New My Reports feature
-  - New My Reports widget in dashboard screen
+  - New `My Reports` feature
+  - New `My Reports` widget in dashboard screen
   - New account deletion feature
   - New image attachment feature
   - New profile picture feature
