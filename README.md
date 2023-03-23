@@ -124,6 +124,11 @@ Please report any bugs or issues you found to help us improve Juta.
 
 Stay tuned for more updates!
 
+### 0.9.2
+
+- Bugfixes:
+  - Fix crash on `Settings` due to unable to load currency
+
 ### 0.9.1
 
 - Bugfixes:
