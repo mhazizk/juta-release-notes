@@ -124,6 +124,13 @@ Please report any bugs or issues you found to help us improve Juta.
 
 Stay tuned for more updates!
 
+### 0.9.3
+
+- Bugfixes:
+  - Fix crash when changing payment due date on `Loan Contact`
+  - Fix crash when changing Logbook on `New Transaction` and `Edit Transanction`
+  - Fix checklist not showing on currency picker
+
 ### 0.9.2
 
 - Bugfixes:
